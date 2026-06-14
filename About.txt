@@ -1,0 +1,19 @@
+ABOUT: Treatment and prevention news
+
+PURPOSE:
+This folder contains curated HIV treatment and prevention evidence digests and weekly news roundups compiled by Antonio Flores, an HIV/public health professional with Médecins Sans Frontières (MSF) / Doctors Without Borders. The materials support rapid review of recent developments in HIV drug therapies and long-acting treatment pipelines.
+
+CONTENTS SUMMARY:
+The folder holds 14 files totaling approximately 4 MB, covering the period from April 18 to May 3, 2026. It includes seven paired sets of Markdown source files (.md) and their corresponding HTML rendered versions. These are weekly digests and evidence summaries, such as "2026-04-18_HIV-Drugs-Evidence-Digest" and "2026-04-18_Long-Acting-HIV-Drug-Pipeline." An additional file, "HIV_Treatment_Prevention_EvidenceDigest_April2026," provides a broader monthly overview. The folder also contains one internal evaluation/review file ("eval_review_iter1.html") and one automation skill file ("pubmed-websearch-retrieval.skill") used for PubMed and web search retrieval.
+
+FILE NAMING CONVENTION:
+Files are named using the date of the digest (YYYY-MM-DD format), followed by a descriptive title. Paired files share the same base name, with .md indicating the editable source and .html indicating the formatted, ready-to-view version. The monthly digest uses a descriptive title without a specific date.
+
+HOW TO USE THE FILES:
+Open the .html files in any web browser for immediate reading. The .md files can be edited in a text editor or Markdown viewer. To search for specific topics, use your operating system's search function to scan file names and content. The "eval_review_iter1.html" file is for internal quality review and may contain notes or feedback.
+
+NOTES ON THE SKILL FILE:
+The "pubmed-websearch-retrieval.skill" file is an automation script used to perform systematic searches on PubMed and general web sources. It is not meant to be opened directly but is used with compatible automation tools to streamline the retrieval of new evidence. Use this file with the appropriate environment if you wish to update or replicate the search process.
+
+For questions or to contribute additional content, contact Antonio Flores.
+Last updated: May 4, 2026.
