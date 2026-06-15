@@ -88,6 +88,9 @@ INDEX_TEMPLATE = """<!DOCTYPE html>
 <p class="lede">Weekly evidence digests on HIV drug therapies and long-acting
 treatment &amp; prevention pipelines, compiled by Antonio Flores
 (M&eacute;decins Sans Fronti&egrave;res &mdash; Doctors Without Borders).</p>
+<p class="lede">Evidence and articles are gathered through automated retrieval
+across PubMed, preprint servers, and other scientific databases, then
+synthesised into each digest.</p>
 </header>
 <section class="reports">
 {items}
